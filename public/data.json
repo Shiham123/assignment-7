@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to C Programming",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202-1.png",
+    "description": "C is a powerful and widely-used programming language known for its efficiency and versatility.",
+    "credit": 1,
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Algorithms",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202-2.png",
+    "description": "Algorithms are fundamental to computer science and programming. They are step-by-step procedures or sets of rules used for solving a particular problem or accomplishing a specific task.",
+    "credit": 2,
+    "price": 25000
+  },
+  {
+    "id": 3,
+    "title": "Introduction to C++ for DSA",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202-3.png",
+    "description": "C++ is a popular programming language that is widely used in the field of Data Structures and Algorithms (DSA) due to its efficiency, versatility, and extensive Standard Template Library (STL).",
+    "credit": 10,
+    "price": 10000
+  },
+  {
+    "id": 4,
+    "title": "Basic Data Structures",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202-4.png",
+    "description": "Basic data structures are fundamental building blocks in computer science and programming.",
+    "credit": 5,
+    "price": 35000
+  },
+  {
+    "id": 5,
+    "title": "Introduction to OOP Python",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202-5.png",
+    "description": "Object-Oriented Programming (OOP) is a programming paradigm that allows you to model real-world entities and problems as objects, which are instances of classes.",
+    "credit": 5,
+    "price": 19000
+  },
+  {
+    "id": 6,
+    "title": "Software Engineering",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202-6.png",
+    "description": "Software engineering is a discipline that involves the systematic design, development, testing, and maintenance of software applications and systems.",
+    "credit": 2,
+    "price": 23000
+  },
+  {
+    "id": 7,
+    "title": "AWS, Cloud Computing",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%202.png",
+    "description": "Amazon Web Services (AWS) is one of the world's leading cloud computing platforms, offering a wide range of cloud services to individuals, businesses, and organizations.",
+    "credit": 5,
+    "price": 35000
+  },
+  {
+    "id": 8,
+    "title": "Database (MySQL)",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%203-1.png",
+    "description": "MySQL is an open-source relational database management system (RDBMS) known for its reliability, scalability, and ease of use.",
+    "credit": 5,
+    "price": 19000
+  },
+  {
+    "id": 9,
+    "title": "Problem-Solving Part",
+    "img": "https://raw.githubusercontent.com/Shiham123/Image-repo/master/Rectangle%203.png",
+    "description": "Problem-solving is a crucial skill in various aspects of life, including academia, work, and everyday situations.",
+    "credit": 2,
+    "price": 23000
+  }
+]
